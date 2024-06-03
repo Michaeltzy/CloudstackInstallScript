@@ -1,3 +1,5 @@
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3GZXOWMHVjl28D5i10AlNa4d33jgZvmbGcw&s
+
 # CloudstackInstallScript
 Bash installation script for Cloudstack
 
